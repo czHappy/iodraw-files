@@ -31,6 +31,9 @@
         <mxCell id="PzA-aOo1igp0XVhClYo3-10" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="640" y="60" width="150" height="200" as="geometry" />
         </mxCell>
+        <mxCell id="PzA-aOo1igp0XVhClYo3-11" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;Selective Server&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="660" y="70" width="60" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
