@@ -37,14 +37,14 @@
         <mxCell id="PzA-aOo1igp0XVhClYo3-14" value="&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="380" y="300" width="200" height="350" as="geometry" />
         </mxCell>
-        <mxCell id="PzA-aOo1igp0XVhClYo3-15" value="吉大cert&lt;div&gt;吉大key&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="415" y="350" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="PzA-aOo1igp0XVhClYo3-16" value="ELB CA" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="420" y="450" width="120" height="30" as="geometry" />
-        </mxCell>
         <mxCell id="PzA-aOo1igp0XVhClYo3-17" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;Telecontrol Server&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="400" y="310" width="150" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="PzA-aOo1igp0XVhClYo3-18" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;zhijia cert&lt;/font&gt;&lt;div&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;zhijia key&lt;/font&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="610" y="400" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="PzA-aOo1igp0XVhClYo3-19" value="吉大 CA" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="610" y="480" width="120" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
