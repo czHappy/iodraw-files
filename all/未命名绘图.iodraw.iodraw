@@ -19,7 +19,7 @@
         <mxCell id="PzA-aOo1igp0XVhClYo3-6" value="&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="320" y="40" width="230" height="200" as="geometry" />
         </mxCell>
-        <mxCell id="PzA-aOo1igp0XVhClYo3-7" value="吉大cert&lt;div&gt;吉大key&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="PzA-aOo1igp0XVhClYo3-7" value="ELB cert&lt;div&gt;ELB key&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="360" y="110" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="PzA-aOo1igp0XVhClYo3-8" value="LB CA" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
