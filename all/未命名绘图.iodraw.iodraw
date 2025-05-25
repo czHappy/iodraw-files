@@ -17,7 +17,7 @@
           <mxGeometry x="90" y="260" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="PzA-aOo1igp0XVhClYo3-6" value="&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="380" y="60" width="200" height="200" as="geometry" />
+          <mxGeometry x="380" y="70" width="200" height="190" as="geometry" />
         </mxCell>
         <mxCell id="PzA-aOo1igp0XVhClYo3-7" value="ELB cert&lt;div&gt;ELB key&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="420" y="130" width="120" height="60" as="geometry" />
@@ -29,7 +29,7 @@
           <mxGeometry x="420" y="70" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="PzA-aOo1igp0XVhClYo3-12" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;Selective Server&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="650" y="130" width="180" height="60" as="geometry" />
+          <mxGeometry x="650" y="55" width="180" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
