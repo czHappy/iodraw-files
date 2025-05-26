@@ -110,13 +110,13 @@
           <mxGeometry x="-80" y="305" width="160" height="30" as="geometry" />
         </mxCell>
         <mxCell id="03NFH8KYEpdFtNHOJEp1-3" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;Self cert&lt;br&gt;&lt;/font&gt;&lt;div&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;Self&amp;nbsp;&lt;/span&gt;key&lt;/font&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-50" y="355" width="120" height="60" as="geometry" />
+          <mxGeometry x="-60" y="495" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="03NFH8KYEpdFtNHOJEp1-4" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;Self CA&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-50" y="425" width="120" height="30" as="geometry" />
+          <mxGeometry x="-60" y="565" width="120" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="03NFH8KYEpdFtNHOJEp1-5" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;Local EDR Service&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="-70" y="315" width="160" height="30" as="geometry" />
+        <mxCell id="03NFH8KYEpdFtNHOJEp1-5" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;Https Service&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-80" y="455" width="160" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
